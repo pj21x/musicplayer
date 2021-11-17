@@ -1,0 +1,29 @@
+body {
+        background-color: #101010;
+}
+
+#body {
+
+}
+
+#play-bar {
+        background-color: #424242;
+        width: 90%;
+        height: 60px;
+        margin: 0px;
+        position: fixed;
+        bottom: 30px;
+        left: 70px;
+        border-radius: 15px;
+        z-index: 4;
+}
+
+#art {
+        position: absolute;
+        top: 8px;
+        left: 20px;
+        margin: auto;
+        border: 2px solid;
+        width: 40px;
+        height: 40px;
+}
